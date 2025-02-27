@@ -1,0 +1,42 @@
+Piilotettu Pääoma 
+- aloitus valuutta
+- kerroin kasvaa pelin mukana
+- päivitykset kasvattavat passiivista saantia
+
+
+Verovapaat Varat
+- Kasvattaa PP:n kerrointa 1.2x (?)
+- Yksi VV maksaa x määrän PP
+- Nappulat antavat eri määriä VV:ta
+- VV:n oston yhteydessä PP nollaantuu
+- 
+
+Kätketyt Kassavirrat 
+- Kasvattaa VV:n kerrointa 2x
+- Kasvattaa PP:n kerrointa 1.5x ja klikkauksen kerrointa 2x (?)
+- Nollaa PP:n ja VV:n
+- Nappulat antavat eri määrän KK:ta 
+- Avaa pysyvät päivitykset (?) jos jaksan
+
+
+Salatut Sijoitukset 
+- Kasvattaa KK:n kerrointa x
+- Kasvattaa VV:n kerrointa x
+- Kasvattaa klikkauksen kerrointa x
+- Nollaa kaikki aikaisemmat
+- Nappulat antavat eri määrän SS:ta
+
+Salaiset Pankkitilit
+- Kasvattaa PP:kerrointa x
+- Kasvattaa KK:n kerrointa
+- Kasvattaa VV:n kerrointa
+- Kasvattaa SS:n kerrointa
+- Kasvattaa klikkausksen kerrointa
+
+
+Pysyvät päivitykset 
+PP menettää vain puolet sen hetkisistä päivityksistä
+Nopeuttaa PP:n passiivista tuotantoa
+Päivitykset -> 1s -> 0.95 -> 0.87 -> 0.82 -> 0.79 -> 0.64 -> 0.58 -> 0.5 -> 0.4 -> 0.25
+
+Hinnat ...
