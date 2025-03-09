@@ -6,7 +6,7 @@ Piilotettu Pääoma
 
 Verovapaat Varat
 - Kasvattaa PP:n kerrointa 1.2x (?)
-- Yksi VV maksaa x määrän PP
+- Eka vv maksaa x määrän pp
 - Nappulat antavat eri määriä VV:ta
 - VV:n oston yhteydessä PP nollaantuu
 - 
